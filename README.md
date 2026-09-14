@@ -23,10 +23,6 @@ The API starts on `http://localhost:3001` by default (override with a `PORT` env
 
 Optional: set a descriptive SEC User-Agent (SEC requires one on all requests):
 
-```bash
-export SEC_USER_AGENT="Your App contact@example.com"
-```
-
 ## 2. Run the web client
 
 In a separate terminal:
