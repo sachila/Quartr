@@ -21,8 +21,6 @@ npm run dev
 
 The API starts on `http://localhost:3001` by default (override with a `PORT` env var).
 
-Optional: set a descriptive SEC User-Agent (SEC requires one on all requests):
-
 ## 2. Run the web client
 
 In a separate terminal:
